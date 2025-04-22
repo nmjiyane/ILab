@@ -1,0 +1,20 @@
+TOOL / Tech used
+
+Java 17
+Maven 3.5
+Junit
+InteliJ IDE
+Cucumber frameworl
+BDD testing approach
+Gerkin
+Selenium
+Chrome Driver
+APIs - RestAssured and Cucumber BDD Style
+
+
+The project consist of two Modules
+API - Task1DogAPIs
+Web - web
+
+Test Data- In have used the Gerkin with cucumber to read  my test data from feature files. /Users/ilabadmin/IdeaProjects/Task1DogAPIs/Web/src/test/resources/functionalTests
+
